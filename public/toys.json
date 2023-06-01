@@ -1,0 +1,162 @@
+[
+    {
+      "name": "Transforming Robot",
+      "description": "A versatile transforming robot toy that can change into a vehicle and back again.",
+      "price": "$29.99",
+      "image": "https://m.media-amazon.com/images/I/51xFRSAZUyL.jpg",
+      "rating": 4.2,
+      "subCategory": "Robots",
+      "availableQuantity": 10,
+      "seller": "ToyLand"
+    },
+    {
+      "name": "Ninja Action Set",
+      "description": "An action-packed ninja toy set with figures, weapons, and accessories for epic battles.",
+      "price": "$19.99",
+      "image": "https://m.media-amazon.com/images/I/61H0-ntF0aL._SX522_.jpg",
+      "rating": 4.5,
+      "subCategory": "Hero",
+      "availableQuantity": 5,
+      "seller": "ToysRUs"
+    },
+    {
+      "name": "Dinosaur Explorer Kit",
+      "description": "A comprehensive dinosaur explorer kit with figurines, vehicles, and excavation tools.",
+      "price": "$39.99",
+      "image": "https://m.media-amazon.com/images/I/71qe3kD8GwL._SX522_.jpg",
+      "rating": 4.8,
+      "subCategory": "Animals",
+      "availableQuantity": 8,
+      "seller": "Playtime Paradise"
+    },
+    {
+      "name": "Space Adventure Spaceship",
+      "description": "Embark on an intergalactic journey with this space adventure spaceship playset.",
+      "price": "$24.99",
+      "image": "https://m.media-amazon.com/images/I/51O1jNavaxL._SX522_.jpg",
+      "rating": 4.4,
+      "subCategory": "Super Vehicles",
+      "availableQuantity": 12,
+      "seller": "Galaxy Toys"
+    },
+    {
+      "name": "Batman Mask",
+      "description": "Harness the power of your favorite superheroes with this incredible power gauntlet.",
+      "price": "$34.99",
+      "image": "https://m.media-amazon.com/images/I/61kpzZGL9QL._SX522_.jpg",
+      "rating": 4.7,
+      "subCategory": "Accessories",
+      "availableQuantity": 6,
+      "seller": "Hero Haven"
+    },
+    {
+      "name": "Pirate Ship Playset",
+      "description": "Set sail on a pirate adventure with this detailed and interactive pirate ship playset.",
+      "price": "$59.99",
+      "image": "https://m.media-amazon.com/images/I/813OZqirzZL._SX522_.jpg",
+      "rating": 4.6,
+      "subCategory": "Hero",
+      "availableQuantity": 3,
+      "seller": "Captain's Cove"
+    },
+    {
+      "name": "Superman Toy",
+      "description": "Challenge your friends to intense SuperHero battles in this thrilling battle bots arena.",
+      "price": "$49.99",
+      "image": "https://m.media-amazon.com/images/I/61cZnFHNLaL._SY879_.jpg",
+      "rating": 4.3,
+      "subCategory": "Hero",
+      "availableQuantity": 7,
+      "seller": "Tech Toys"
+    },
+    {
+      "name": "Batman Toy",
+      "description": "Inspire epic fantasy adventures with this highly detailed and articulated knight action figure.",
+      "price": "$14.99",
+      "image": "https://m.media-amazon.com/images/I/71jBbJZSTmL._SX522_.jpg",
+      "rating": 4.1,
+      "subCategory": "Hero",
+      "availableQuantity": 9,
+      "seller": "Enchanted Emporium"
+    },
+    {
+      "name": "Hulk Car",
+      "description": "Protect the city with this Hulk car featuring lights, sounds, and realistic details.",
+      "price": "$19.99",
+      "image": "https://m.media-amazon.com/images/I/71RNNom6VgL._SX355_.jpg",
+      "rating": 4.5,
+      "subCategory": "Super Vehicles",
+      "availableQuantity": 11,
+      "seller": "Justice Toys"
+    },
+    {
+      "name": "Iron Man Toy",
+      "description": "Embark on exciting adventures with this explorer set including figures, gear, and maps.",
+      "price": "$29.99",
+      "image": "https://m.media-amazon.com/images/I/415GiqtmSxS.jpg",
+      "rating": 4.0,
+      "subCategory": "Hero",
+      "availableQuantity": 4,
+      "seller": "Adventure Emporium"
+    },
+    {
+      "name": "Panda Ninja Toy",
+      "description": "Set of realistic and detailed dinosaur action figures for prehistoric adventures.",
+      "price": "$12.99",
+      "image": "https://www.transformerland.com/image/reference_images/51601.jpg",
+      "rating": 4.3,
+      "subCategory": "Animals",
+      "availableQuantity": 15,
+      "seller": "Jurassic Toys"
+    },
+    {
+      "name": "Robot Building Set",
+      "description": "Build and customize your own robot with this fun and educational robot building set.",
+      "price": "$39.99",
+      "image": "https://m.media-amazon.com/images/I/81eGUhHNY1L._SX522_.jpg",
+      "rating": 4.5,
+      "subCategory": "Robots",
+      "availableQuantity": 8,
+      "seller": "Tech Wizards"
+    },
+    {
+      "name": "Wild West Cowboy Playset",
+      "description": "Saddle up and ride into the Wild West with this exciting cowboy-themed playset.",
+      "price": "$27.99",
+      "image": "https://i.pinimg.com/originals/7a/1d/d9/7a1dd90c1b665dfb48e40055234a3d4b.jpg",
+      "rating": 4.2,
+      "subCategory": "Hero",
+      "availableQuantity": 6,
+      "seller": "Western Wonders"
+    },
+    {
+      "name": "Iron Man Helmet",
+      "description": "Embark on interstellar missions with this Ironman helmet featuring sound effects.",
+      "price": "$19.99",
+      "image": "https://m.media-amazon.com/images/I/61cLhjNG6WL._UX569_.jpg",
+      "rating": 4.6,
+      "subCategory": "Accessories",
+      "availableQuantity": 9,
+      "seller": "Galactic Gear"
+    },
+    {
+      "name": "Fantasy Dragon Figure",
+      "description": "Unleash the power of mythical creatures with this beautifully designed fantasy dragon figure.",
+      "price": "$24.99",
+      "image": "https://m.media-amazon.com/images/I/71ehmSV20rL._SX522_.jpg",
+      "rating": 4.7,
+      "subCategory": "Animals",
+      "availableQuantity": 5,
+      "seller": "Dragon's Lair"
+    },
+    {
+      "name": "Batman car",
+      "description": "Experience high-speed racing action with this thrilling super hero batman car playset.",
+      "price": "$59.99",
+      "image": "https://m.media-amazon.com/images/I/71ZZg5IHDIL._SX355_.jpg",
+      "rating": 4.3,
+      "subCategory": "Super Vehicles",
+      "availableQuantity": 3,
+      "seller": "Speedster Toys"
+    }
+  ]
