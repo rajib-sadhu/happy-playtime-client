@@ -8,6 +8,7 @@ import useTitle from '../../Layout/useTitle';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
+import Achivemnts from './Achivemnts';
 // ..
 AOS.init();
 
@@ -25,6 +26,7 @@ const Home = () => {
             <div data-aos='fade-right' >
                 <Sponsored />
             </div>
+            <Achivemnts />  
             <Reviews />
         </div>
     );
